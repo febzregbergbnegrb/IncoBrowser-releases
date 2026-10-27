@@ -1,11 +1,16 @@
 # IncoBrowser — téléchargements
 
-Gestionnaire de profils navigateur pour Windows : chaque profil est un Chrome / Edge isolé avec son propre proxy.
+Gestionnaire de profils navigateur pour Windows et macOS : chaque profil est un Chrome / Edge isolé avec son
+propre proxy. Site : https://incobrowser.com
 
-**[Télécharger la dernière version](https://github.com/febzregbergbnegrb/IncoBrowser-releases/releases/latest/download/IncoBrowser.exe)**
+- **[Télécharger pour Windows](https://github.com/febzregbergbnegrb/IncoBrowser-releases/releases/latest/download/IncoBrowser.exe)** (Windows 10 et 11)
+- **[Télécharger pour macOS (bêta)](https://github.com/febzregbergbnegrb/IncoBrowser-releases/releases/latest/download/IncoBrowser.dmg)** (Mac à puce Apple, M1 et suivantes)
 
 Ce dépôt ne contient que les fichiers d'installation publiés (onglet *Releases*). L'empreinte SHA-256 de
-chaque exe est indiquée dans sa release.
+chaque fichier est indiquée dans sa release.
 
-Au premier lancement, Windows peut afficher « Windows a protégé votre ordinateur » : l'exe n'est pas encore
-signé. Cliquer sur *Informations complémentaires* puis *Exécuter quand même*.
+Au premier lancement, les fichiers n'étant pas encore signés :
+- Windows peut afficher « Windows a protégé votre ordinateur » : cliquer sur *Informations complémentaires*
+  puis *Exécuter quand même*.
+- macOS peut refuser d'ouvrir l'appli : ouvrir *Réglages Système > Confidentialité et sécurité*, puis cliquer
+  sur *Ouvrir quand même* en face d'IncoBrowser.
