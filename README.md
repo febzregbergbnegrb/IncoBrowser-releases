@@ -4,7 +4,7 @@ Gestionnaire de profils navigateur pour Windows et macOS : chaque profil est un 
 propre proxy. Site : https://incobrowser.com
 
 - **[Télécharger pour Windows](https://github.com/febzregbergbnegrb/IncoBrowser-releases/releases/latest/download/IncoBrowser.exe)** (Windows 10 et 11)
-- **[Télécharger pour macOS (bêta)](https://github.com/febzregbergbnegrb/IncoBrowser-releases/releases/latest/download/IncoBrowser.dmg)** (Mac à puce Apple, M1 et suivantes)
+- **[Télécharger pour macOS (bêta)](https://github.com/febzregbergbnegrb/IncoBrowser-releases/releases/download/v1.1.12/IncoBrowser.dmg)** (Mac à puce Apple, M1 et suivantes)
 
 Ce dépôt ne contient que les fichiers d'installation publiés (onglet *Releases*). L'empreinte SHA-256 de
 chaque fichier est indiquée dans sa release.
